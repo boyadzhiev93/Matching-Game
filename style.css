@@ -1,0 +1,16 @@
+h1{
+text-align: center;
+}
+
+div {
+  position:absolute;
+  width:500px;
+  height:500px; 
+}
+#rightSide{
+  left: 50%;
+  border-left: 1px solid black;
+}
+img{
+  position:absolute;
+}
